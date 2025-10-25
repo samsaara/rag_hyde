@@ -1,6 +1,8 @@
-# RAG HYDE
+![RAG with HyDE and RRF](RAG_Robot.png)
 
-Building a minimal yet powerful Retrieval-Augmented Generation (RAG) workflow inspired by the techniques in the articles already shared.
+# RAG with HYDE and RRF
+
+Building a minimal yet powerful Retrieval-Augmented Generation (RAG) workflow combining Hypothetical Document Embeddings (HyDE), Query Regeneration, and Reciprocal Rank Fusion (RRF). Checkout the [notebook](notebooks/rag_hyde.ipynb) or its associated [blog post](https://samsaara.github.io/posts/rag_with_hyde_rrf/rag_hyde.html) for more info.
 
 ## Setup
 

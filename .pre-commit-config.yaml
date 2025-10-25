@@ -8,7 +8,7 @@ repos:
     -   id: end-of-file-fixer
     -   id: check-yaml
     -   id: check-added-large-files
-        args: ['--maxkb=2000']  # 2 MB
+        args: ['--maxkb=8000']  # 8 MB
 
 
 -   repo: local
